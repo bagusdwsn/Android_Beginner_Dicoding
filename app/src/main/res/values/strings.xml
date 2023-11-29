@@ -1,0 +1,298 @@
+<resources>
+    <string name="app_name">Nyenil</string>
+    <string name="toProfile">Profile</string>
+    <string name="nama">Bagus Dwi Santoso</string>
+    <string name="email">baguscodes@gmail.com</string>
+    <string name="jajan_name">Nama Jajanan</string>
+    <string name="headline">Headline Jajanan</string>
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="vasal">Asal</string>
+    <string name="asal">Asal Jajanan</string>
+    <string name="vrasa">Rasa</string>
+    <string name="rasa">Rasa Jajanan</string>
+    <string name="vbahanDasar">Bahan Dasar</string>
+    <string name="bahanDasar">Bahan Dasar Jajanan</string>
+    <string name="resep">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
+    <string-array name="data_name">
+        <item>Arem - Arem</item>
+        <item>Bubur Sumsum</item>
+        <item>Cenil</item>
+        <item>Clorot</item>
+        <item>Comro</item>
+        <item>Dodol</item>
+        <item>Emping</item>
+        <item>Getuk</item>
+        <item>Klepon</item>
+        <item>Lemper</item>
+    </string-array>
+    <string-array name="data_headline">
+        <item>Arem-Arem Kebumen, Isi Legit dalam Balutan Nasi Hangat</item>
+        <item>Bubur Sumsum, Kenikmatan Legendaris dari Jawa</item>
+        <item>Cenil Pacitan, Manisnya Tradisi dalam Setiap Gigitan</item>
+        <item>Clorot Purworejo, Nikmatnya Gula Merah dalam Balutan Daun Janur</item>
+        <item>Comro, Gurihnya Isi Oncom dalam Balutan Gorengan Khas Sunda</item>
+        <item>Dodol Ponorogo, Manis dan Kenyal, Citra Khas Jawa Timu</item>
+        <item>Keripik Pahit Biji Melinjo</item>
+        <item>Getuk Magelang, Suguhan Tradisional yang Menggugah Selera</item>
+        <item>Klepon, Manisnya Kelapa Parut dalam Butiran Ketan Hijau</item>
+        <item>Lemper, Nikmatnya Isi Ayam dalam Balutan Ketan Putih</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Arem-arem adalah makanan khas Kebumen yang terbuat dari beras dan santan, dengan berbagai isian seperti kentang goreng, sambal tempe, atau oncom. Makanan ini biasanya dibungkus dengan daun pisang dan dimasak dengan cara dikukus.</item>
+        <item>Bubur sumsum adalah makanan tradisional Jawa yang terbuat dari tepung beras, santan, daun pandan, dan garam. Makanan ini memiliki tekstur lembut dan rasa manis yang lezat.</item>
+        <item>Cenil adalah makanan tradisional dari Pacitan, Jawa Timur. Makanan ini terbuat dari tepung ketela pohon atau tepung sagu dan biasanya disajikan dengan parutan kelapa dan sirup gula merah.</item>
+        <item>Clorot adalah makanan khas Purworejo yang terbuat dari gula aren, kelapa, santan kelapa, tepung ketan, dan rempah-rempah. Makanan ini dibungkus dengan daun janur (daun kelapa muda) dan dimasak dengan cara dikukus.</item>
+        <item>Comro adalah makanan khas Sunda yang terbuat dari singkong dan oncom. Makanan ini digoreng hingga berwarna keemasan dan memiliki rasa yang gurih.</item>
+        <item>Dodol adalah makanan khas Ponorogo, Jawa Timur yang terbuat dari santan kelapa, tepung ketan, gula pasir, gula merah, dan garam. Makanan ini memiliki tekstur yang kenyal dan rasa manis.</item>
+        <item>Emping: Emping adalah keripik yang terbuat dari biji melinjo atau belinjo. Makanan ini diproduksi di banyak bagian Indonesia, dari Limpung di Jawa Tengah, Pidie di Aceh hingga Sulawesi.</item>
+        <item>Getuk adalah makanan khas Magelang, Jawa Tengah yang terbuat dari singkong, gula, dan kelapa. Makanan ini biasanya disajikan dengan taburan kelapa parut.</item>
+        <item>Klepon adalah makanan yang diduga berasal dari Jawa. Makanan ini terbuat dari tepung beras ketan, gula merah, dan kelapa parut. Makanan ini biasanya dibuat bulat-bulat dan diberi warna hijau.</item>
+        <item>Lemper adalah makanan khas Indonesia yang terbuat dari beras ketan, daging ayam atau abon, dan daun pisang. Makanan ini biasanya dibungkus dengan daun pisang dan dimasak dengan cara dikukus.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/arem_arem</item>
+        <item>@drawable/bubur_sumsum</item>
+        <item>@drawable/cenil</item>
+        <item>@drawable/clorot</item>
+        <item>@drawable/comro</item>
+        <item>@drawable/dodol</item>
+        <item>@drawable/emping</item>
+        <item>@drawable/getuk</item>
+        <item>@drawable/klepon</item>
+        <item>@drawable/lemper</item>
+    </integer-array>
+    <string-array name="data_asal">
+        <item>Jawa Tengah</item>
+        <item>Jawa Tengah</item>
+        <item>Pacitan, Jawa Timur</item>
+        <item>Purworejo, Jawa Tengah</item>
+        <item>Jawa Barat</item>
+        <item>Ponorogo, Jawa Timur</item>
+        <item>Jawa Tengah, Aceh, Sulawesi.</item>
+        <item>Magelang, Jawa Tengah</item>
+        <item>Jawa Tengah</item>
+        <item>Jawa Tengah</item>
+    </string-array>
+    <string-array name="data_rasa">
+        <item>Gurih, Pedas</item>
+        <item>Manis</item>
+        <item>Manis</item>
+        <item>Manis</item>
+        <item>Gurih, Pedas</item>
+        <item>Manis</item>
+        <item>Pahit</item>
+        <item>Manis, Gurih</item>
+        <item>Manis</item>
+        <item>Gurih</item>
+
+    </string-array>
+    <string-array name="data_bahan_dasar">
+        <item>Beras</item>
+        <item>Tepung Beras</item>
+        <item>Tepung Ketela Pohon</item>
+        <item>Tepung Ketan, Gula Aren</item>
+        <item>Singkong, Oncom</item>
+        <item>Tepung Ketan, Santan</item>
+        <item>Biji Melinjo</item>
+        <item>Singkong</item>
+        <item>Tepung Ketan</item>
+        <item>Beras Ketan</item>
+    </string-array>
+    <string-array name="data_resep">
+        <item>
+        Bahan :\n
+        - 500 gram beras pulen\n
+        - 1.200 ml santan\n
+        - 1 sdt garam\n
+        - 1 sdt gula pasir\n
+        - 3 lembar daun salam\n
+        - 1 batang serai, memarkan\n
+        - Daun pisang secukupnya\n
+        - Lidi secukupnya\n\n
+
+        Bahan isi :\n
+        - 400 gram tempe, iris kecil\n
+        - 300 gram daging giling\n
+        - 2 lembar daun salam\n
+        - 1 batang serai, memarkan\n
+        - 1 ruas lengkuas, memarkan\n
+        - 100 ml santan kental\n
+        - Gula dan garam secukupnya\n
+        - 3 sdm minyak goreng untuk menumis\n\n
+
+        Bumbu halus :\n
+        - 2 buah cabai merah besar\n
+        - 4 buah bawang merah\n
+        - 2 siung bawang putih\n\n
+
+        Langkah :\n
+        - Cuci beras, kukus hingga panas. Di lain panci, tuang santan, garam, gula, daun salam, dan serai, masak semuanya hingga mendidih. Masukkan beras panas ke dalam santan, aduk dan tutup panci. Biarkan hingga santan terserap habis.\n
+        - Isi arem-arem: Tumis bumbu halus, daun salam, serai, dan lengkuas hingga harum. Masukkan daging giling, masak hingga berubah warna, masukkan tempe, aduk hingga rata. Tuang santan kental.\n
+        - Bubuhi dengan garam dan gula biarkan hingga mendidih dan santan menyusut. Koreksi rasa.\n
+        - Ambil satu lembar daun pisang, bersihkan. Beri sekitar dua sendok makan nasi aron, pipihan dan beri satu sendok teh bahan isi. Padatkan dan gulung seperti lontong. Sematkan dua ujungnya dengan lidi.\n
+        - Kukus arem-arem selama 60 menit atau sampai tanak. Angkat dan dinginkan arem-arem.\n
+    </item>
+        <item>Bahan-bahan:\n
+- 200 gram tepung beras\n
+- 750 ml santan\n
+- 1/2 sdt garam\n
+- 2 lembar daun pandan, simpulkan\n
+- 250 gram gula merah, serut\n
+- 2 lembar daun pandan, potong kotak\n
+- 100 ml air\n
+- 100 ml gula pasir\n
+- 1/4 sdt vanili bubuk\n\n
+
+Cara Membuat:\n
+1. Campur tepung beras, garam, dan santan hingga larut. Tambahkan daun pandan.\n
+2. Masak dengan api sedang hingga matang dan mengental. Angkat dan sisihkan.\n
+3. Untuk saus gula merah: Campur semua bahan menjadi satu. Masak sampai gula larut dan mendidih. Angkat dan saring.\n
+4. Masukkan bubur sumsum ke dalam mangkuk, siram dengan saus gula merah. Sajikan.
+</item>
+        <item>Bahan-bahan:\n
+- 25 gram tepung sagu\n
+- 6 sendok makan air\n
+- Daun Pisang\n
+- 125 gram tepung sagu\n
+- 150 gram kelapa parut kasar\n
+- 1/8 sendok teh garam\n
+- 5 sendok teh gula pasir\n
+- Pewarna hijau 1 tetes\n
+- Pewarna merah 1 tetes\n
+- Daun pandan 1 lembar\n\n
+
+Cara Membuat:\n
+1. Kelapa pelapis: campur kelapa parut, garam, dan daun pandan. Kukus selama 15 menit. Angkat dan sisihkan.\n
+2. Cenil: masukkan 25 gram tepung sagu dan air, masak sampai menjadi adonan. Angkat.\n
+3. Masukkan 125 gram tepung sagu ke dalam mangkuk, lalu tambahkan adonan sagu yang sudah direbus. Uleni sampai tercampur rata.\n
+4. Bagi adonan menjadi tiga, beri pewarna masing-masingnya. Masukkan dalam mangkuk, sisihkan.\n
+5. Ambil sedikit adonan dari tiap warna, lalu pilin-pilin kecil dan satukan. Rebus cenil sampai matang dan mengapung di air. Angkat dan gulingkan di atas kelapa pelapis.\n
+6. Sajikan cenil di atas daun pisang. Bisa juga ditambah gula merah cair.</item>
+        <item>Bahan-bahan:\n
+- 250 gram tepung beras\n
+- 800 ml santan kelapa\n
+- 400 gram gula merah\n
+- 50 gram tepung kanji\n
+- 3 lembar daun pandan\n
+- 1 sdt garam halus\n
+- Janur atau daun kelapa yang masih muda dibentuk kerucut.\n\n
+
+Cara Membuat:\n
+1. Siapkan panci berukuran sedang, masukkan santan, gula merah yang sudah disisir terlebih dahulu, dan daun pandan. Jangan lupa masukkan garam untuk menambahkan rasa gurih.\n
+2. Aduk rata bahan-bahan tersebut, pastikan gula merah mencair sempurna. Tunggu hingga mendidih.\n
+3. Jika sudah, sisihkan dan lanjut ke langkah berikutnya.\n
+4. Campurkan tepung beras dan tepung kanji. Tuangkan campuran santan ke dalam adonan tepung. Aduk hingga merata dan licin.\n
+5. Janur clorot: Buang bagian tulang tengah janur. Ambil selembar janur. Lilit sambil diputar sehingga membentuk kerucut. Bagian bawah harus rapat supaya tidak bocor. Sematkan bagian atas janur agar tidak lepas.\n
+6. Susun janur menghadap ke atas di dalam kukusan. Tuangkan adonan hingga mencapai 3/4 tinggi clorot. Kukus selama 30 menit sampai matang.\n
+7. Angkat dan sajikan selagi hangat.</item>
+        <item>Bahan-bahan:\n
+- 750 g singkong.\n
+- 1½ sdt garam.\n
+- 100 g kelapa setengah tua, parut.\n
+- Minyak goreng.\n
+- 1 buah cabai merah, iris halus.\n
+- 200 g oncom merah, remas-remas.\n
+- 6 batang kucai, potong 1 cm.\n
+- 50 g daun kemangi.\n
+- 20 buah cabai rawit.\n
+- 125 g bawang merah.\n
+- 5 siung bawang putih.\n
+- 5 cm kencur.\n
+- 2 sdt gula pasir.\n
+- 1 sdt garam.\n\n
+
+Cara Membuat:\n
+1. Kupas singkong, parut halus. Campur singkong parut dengan garam dan kelapa, aduk rata. Bagi adonan menjadi 24 bagian.\n
+2. Isi: Panaskan 4 sdm minyak goreng dalam wajan. Tumis bumbu halus hingga harum. Masukkan cabai iris, tumis hingga cabai layu. Masukkan oncom dan kucai, masak sambil diaduk-aduk hingga seluruh bahan matang dan agak kering.\n
+3. Masukkan daun kemangi, aduk hingga daun kemangi layu. Angkat, bagi menjadi 24 bagian sama banyak.\n
+4. Ambil 1 bagian adonan singkong, pipihkan, isi tengahnya dengan 1 bagian oncom. Tutup rapat adonan singkong hingga isi tertutup rapat dan berbentuk bulat lonjong.\n
+5. Panaskan minyak goreng yang banyak dalam wajan di atas api sedang. Masukkan comro, goreng hingga kuning kecokelatan, angkat, tiriskan.</item>
+        <item>Bahan-bahan:\n\n
+- 500 gram tepung ketan\n
+- 1 kilogram gula merah\n
+- 1 liter santan dari 2 butir kelapa\n
+- 1/2 sendok teh garam\n
+- 2 lembar daun pandan\n\n
+
+Cara Membuat:\n
+1. Campurkan tepung ketan dengan santan, gula merah, garam, dan daun pandan dalam panci.\n
+2. Masak dengan api kecil sambil terus diaduk hingga adonan mengental dan berminyak.\n
+3. Tuang adonan ke dalam loyang yang telah diolesi minyak. Ratakan.\n
+4. Kukus selama 30 menit dengan api sedang.\n
+5. Angkat dan dinginkan sebelum dipotong.\n</item>
+        <item>Bahan-bahan:\n
+- 500 gram melinjo merah.\n
+- 4 siung bawang putih.\n
+- 1 sdm garam.\n
+- 1 sdt kaldu bubuk.\n
+- Air secukupnya.\n
+- Minyak untuk menggoreng.\n
+
+Cara Membuat:\n
+1. Kupas kulit melinjo yang keras. Lalu, sangrai melinjo sampai cokelat.\n kehitaman. Setelah dingin, tumbuk dan pipihkan melinjo dengan bantuan palu. Jemur keripik melinjo di bawah sinar matahari selama 2-3 hari.\n
+2. Haluskan bawang putih dan garam. Tambahkan kaldu bubuk dan air. Aduk rata.\n
+3. Panaskan minyak goreng.\n
+4. Goreng emping dalam minyak panas yang banyak. Ciprati dengan bumbu bawang.\n
+5. Goreng emping sampai matang. Angkat dan sajikan.\n</item>
+        <item>Bahan-bahan:\n
+- 500 gram singkong.\n
+- 150 gram gula pasir.\n
+- 2 sendok makan gula jawa/merah.\n
+- 1/4 sendok teh garam.\n
+- 1 sendok teh vanili bubuk.\n
+- Kelapa parut secukupnya.\n
+- Pewarna makanan secukupnya.\n\n
+
+Cara Membuat:\n
+1. Kukus singkong hingga matang.\n
+2. Kemudian, campurkan singkong dengan gula pasir, gula merah, dan juga garam.\n
+3. Masukkan pewarna makanan dan vanili bubuk.\n
+4. Setelah warna merata, Anda bisa mencetaknya dengan cetakan kue, kemudian taburi atasnya dengan kelapa.\n
+5. Getuk singkong jadul siap disajikan.\n
+</item>
+        <item>Bahan-bahan:\n
+- 250 gram tepung ketan.\n
+- 50 gram tepung beras.\n
+- 1350 ml air mineral.\n
+- 1 sdt garam.\n
+- 3 sdm gula pasir.\n
+- 1/2 buah kelapa, parut kemudian kukus.\n
+- Daun pandan secukupnya.\n
+- Gula merah secukupnya, sisir halus.\n\n
+
+Cara Membuat:\n
+1. Blender daun pandan dengan 200 ml air sebagai pewarna alami. Sisihkan.\n
+2. Campurkan tepung beras ketan, tepung beras, dan garam. Uleni sampai sempurna.\n
+3. Beri sedikit pewarna sambil tetap diaduk sampai rata.\n
+4. Tuang sedikit demi sedikit air mineral 150 ml, sambil terus diaduk.\n
+5. Kalau adonan sudah mencapai kekentalan yang pas, bentuk bulat dan isi dengan gula merah sisir.\n
+6. Lalu rebus klepon sampai mengapung, angkat dan sisihkan.\n
+7. Siapkan parutan kelapa, campur dengan gula pasir dan garam, sisihkan.\n
+8. Baluri klepon yang sudah matang dengan parutan kelapa.\n
+9. Sajikan selagi hangat.\n</item>
+        <item>Bahan-bahan:\n
+- 200 gram beras ketan yang sudah direndam selama 1 jam.\n
+- 1 batang serai.\n
+- 1 lembar daun salam.\n
+- 125 ml santan yang diambil dari 1/4 butir kelapa.\n
+- 3/4 sendok teh garam.\n
+- Daun pisang secukupnya.\n
+- 2 buah paha ayam atas bawah.\n
+- 1 batang serai.\n
+- 500 ml air.\n
+- 3/4 sendok teh garam.\n
+- 2 lembar daun salam.\n
+- 1/4 sendok teh merica bubuk.\n
+- 1/2 sendok teh gula pasir.\n
+- 100 ml santan yang diambil dari 1/4 butir kelapa.\n\n
+
+Cara Membuat:\n
+1. Kukus ketan yang sudah anda siapkan kurang lebih 20 menit sampai ketan dirasa cukup matang. Jika sudah matang, angkat.\n
+2. Rebus santan, daun salam, serai dan garam hingga mendidih. Jika sudah, anda bisa langsung mematikan api kompor. Kemudian, tambahkan beras ketan yang sudah dikukus. Lalu masak sampai meresap. Setelah itu, angkat dan kukus selama kurang lebih sekitar 30 menit sampai benar-benar matang.\n
+3. Siapkan panci yang akan digunakan untuk merebus ayam. Lalu masukan air secukupnya ke dalam panci tersebut. Simpan panci tersebut di atas kompor menyala. Rebus air sampai mendidih. Jika air sudah mendidih, masukan ayam yang sudah anda siapkan. Rebus ayam sampai benar-benar matang. Jika ayam sudah matang, angkat dan tiriskan. Lalu suwir-suwir daging ayam tersebut dan ukur kaldunya 250 ml.\n
+4. Haluskan semua bumbu halus seperti yang sudah ditentukan di atas. Lalu campurkan ayam yang sudah disuwir-suwir dengan bumbu halus, serai yang sudah dimemarkan bagian putihnya, daun dalam, merica bubuk, gula pasir dan garam. Kemudian, aduk sampai bumbu merata dengan ayam. Selanjutnya, tuangkan air kaldu. Lalu masak sampai mendidih. Tuangkan santan. Lalu masak sampai meresap. Setelah itu, dinginkan.\n
+5. Ambil sedikit ketan atau adonan kulit. Lalu pipihkan. Beri isi ketan tersebut. Lalu bentuk lonjong atau sesuai dengan selera anda.\n
+</item>
+    </string-array>
+</resources>
